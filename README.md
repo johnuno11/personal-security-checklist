@@ -382,6 +382,7 @@ The most privacy-respecting option, would be to not use "smart" internet-connect
 **Monitor your home network closely** | Optional | Check your local network for suspicious activity. One of the easier methods to do this is with [FingBox](https://amzn.to/38mdw8F), but you can also do it directly [through some routers](https://www.howtogeek.com/222740/how-to-the-monitor-the-bandwidth-and-data-usage-of-individual-devices-on-your-network/). 
 **Deny Internet access where possible** | Advanced | If possible deny the device/ app internet access, and use it only on your local network. You can configure a firewall to block certain devices from sending or receiving from the internet. 
 **Assess risks** | Advanced | Assess risks with your audience and data in mind: Be mindful of whose data is being collected, e.g. kids. Manage which devices can operate when (such as turning cameras off when you are at home, or disabling the internet for certain devices at specific times of day)
+**Finding Bugs K-68 Hidden Camera Device Finder** | Quality | Finding the best hidden camera devices online is crucial in a situaiton when you need counter surveillance. Buying new spy gadgets online is the only thing you need to be able to find the culprit and discover if you are under surveillance. [Hidden Camera Detectors](https://buytechgifts.com/collections/hidden-camera-detectors)
 
 **Recommended Software**
 - [Home Automation](/5_Privacy_Respecting_Software.md#home-automation)
